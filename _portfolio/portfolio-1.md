@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Gael12321.github.io"
+date: 2024-10-05
+description: "Página de portafolio con plantilla Jekyll."
+link: "https://github.com/Gael12321/Gael12321.github.io"
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
