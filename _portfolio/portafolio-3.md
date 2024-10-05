@@ -4,3 +4,4 @@ excerpt: "Proyecto en CSS para uso de base de datos RAW"
 collection: portfolio
 ---
 Un proyecto desarrollado en CSS para aplicar principios avanzados de diseño web. El enfoque principal es el uso de RAW SQL para el control de la base de datos(Falta funcionalidad ya que solo una parte es responsiba).
+[Link](https://github.com/Gael12321/Proyecto_Mireles_2_Electric_Bongaloo)
