@@ -12,7 +12,7 @@ title                    : "Gael Balderrama / Portafolio"
 title_separator          : "-"
 name                     : &name "Gael Balderrama Dominguez"
 description              : &description "Portafolio de Gael Balderrama"
-url                      : https://gael12321.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Gael12321.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Gael12321/Gael12321.github.io"
 
